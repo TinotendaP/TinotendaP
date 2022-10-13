@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TinotendaP
 - 👀 I’m interested in Python, Django
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on webdev
 - 📫 How to reach me... 
 
